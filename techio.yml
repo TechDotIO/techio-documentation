@@ -1,0 +1,52 @@
+title : Tech.io Documentation
+cover: cover.png
+plan:
+  - title: Getting started
+    plan:
+      - title: Create a playground
+        statement: getting started/tutorial-1-create.md
+      - title: Add a quizz
+        statement: getting started/tutorial-2-quiz.md
+      - title: Add a coding exercise
+        statement: getting started/tutorial-3-coding-exercise.md
+      - title: Add a viewer
+        statement: getting started/tutorial-4-viewer.md
+  - title: Reference
+    plan:
+      - title: techio.yml
+        statement: reference/reference-techioyml.md
+      - title: Markdown tags
+        statement: reference/reference-markdown.md
+      - title: Runner Reference
+        statement: reference/reference-runner.md
+      - title: Runner Commands
+        statement: reference/reference-command.md
+  - title: Markdown reference
+    plan:
+      - title: Quiz
+        statement: markdown/markdown-quiz.md
+      - title: Coding exercise
+        statement: markdown/markdown-run.md
+      - title: Math formula
+        statement: markdown/markdown-math.md
+      - title: Magic Links
+        statement: markdown/markdown-magic-links.md
+  - title: Command reference
+    plan:
+      - title: annotate
+        statement: commands/command-annotate.md
+      - title: message
+        statement: commands/command-message.md
+      - title: open
+        statement: commands/command-open.md
+      - title: redirect-streams
+        statement: commands/command-redirect-streams.md
+      - title: success
+        statement: commands/command-success.md
+
+  - title: One more thing
+    plan:
+      - title: Runner list
+        statement: misc/runner-list.md
+      - title: Additional ressources
+        statement: misc/ressources.md

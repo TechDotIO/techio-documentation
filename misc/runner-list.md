@@ -1,0 +1,16 @@
+Please find below a list of runners available on the platform:
+
+| Name | Short description | Git Docker | Environment (Language, requirements, etc.) |
+|------|-------------------|------------|--------------------------------------------|
+|java-maven3-junit4-runner|A `JUnit` test runner using `Maven` for building the course and `javac` for compiling the user's answer.|[GitHub](https://github.com/CodinGame/java-maven3-junit4-runner) [DockerHub](https://hub.docker.com/r/codingame/java-maven3-junit4-runner/)|Java 8, Maven 3, JUnit 4|
+|maven3-runner|A full maven3 runner using `Maven` for building and running the course according to the user answer.|[GitHub](https://github.com/CodinGame/maven3-runner) [DockerHub](https://hub.docker.com/r/codingame/maven3-runner/)|Java 8, Maven 3|
+|sbt-scalatest-runner|A `Scala` test runner that fetches dependencies using `sbt` and executes tests using `scalatest`.|[GitHub](https://github.com/CodinGame/sbt-scalatest-runner) [DockerHub](https://hub.docker.com/r/codingame/sbt-scalatest-runner/)|Scala 2.12|
+|golang-godep-runner|A `Golang` test runner using `godep` for fetching dependencies.|[GitHub](https://github.com/CodinGame/golang-godep-runner) [DockerHub](https://hub.docker.com/r/codingame/golang-godep-runner/)|Go 1.8, works with the "testing" package|
+|node-npm-runner|A `JavaScript` runner using `npm` for fetching dependencies and running user code with the provided command. |[GitHub](https://github.com/CodinGame/node-npm-runner) [DockerHub](https://hub.docker.com/r/codingame/node-npm-runner/)|Node.js 7.4|
+|mono-nuget-nunit-runner|A `NUnit` test runner using `NuGet` for building the course and running user code with `Mono` (`C#`, `F#`)|[GitHub](https://github.com/CodinGame/mono-nuget-nunit-runner) [DockerHub](https://hub.docker.com/r/codingame/mono-nuget-nunit-runner/)|Mono 4.8|
+|cmake-gcc-runner|A simple `C/C++` runner building using `CMake` and `GCC` and running user code using the command provided in the course.|[GitHub](https://github.com/CodinGame/cmake-gcc-runner) [DockerHub](https://hub.docker.com/r/codingame/cmake-gcc-runner/)|GCC 6.3|
+|c-check-runner|A `Check` test runner for `C` courses using `autoconf/make` and `GCC` for building.|[GitHub](https://github.com/CodinGame/c-check-runner) [DockerHub](https://hub.docker.com/r/codingame/c-check-runner/)|GCC 6.3|
+|python3-unittest-runner|A `Python` runner using `unittest` for testing user code.|[GitHub](https://github.com/CodinGame/python3-unittest-runner) [DockerHub](https://hub.docker.com/r/codingame/python3-unittest-runner/)|Python 3.6|
+|dotnet-runner|A `.Net Core` runner for `C#/F#` using `MSTest`/`xUnit` for testing user code.|[GitHub](https://github.com/CodinGame/dotnet-runner) [DockerHub](https://hub.docker.com/r/codingame/dotnet-runner/)|.Net Core 1.1|
+|rust-cargo-runner|A `Rust` test runner using `cargo` for building the course as well as running user code.|[GitHub](https://github.com/CodinGame/rust-cargo-runner) [DockerHub](https://hub.docker.com/r/codingame/rust-cargo-runner/)|Rust 1.15|
+|ruby-bundler-runner|A `Ruby` test runner using `bundler` for installing dependencies.|[GitHub](https://github.com/CodinGame/ruby-bundler-runner) [DockerHub](https://hub.docker.com/r/codingame/ruby-bundler-runner/)|Ruby 2.4|
