@@ -3,15 +3,15 @@ You can write Math formula using the following syntax:
 
 Math block:
 
-```
-\`\`\`math
+````
+```math
 your formula
-\`\`\`
 ```
+````
 
 Inline formula:
 ```
-inline formula: $\`your formula\`$
+inline formula: $`your formula`$
 ```
 
 Tex and Latex syntax can be used to write a formula.

@@ -4,7 +4,7 @@ A viewer is a HTTP service that serves contents from the runner to an iframe ins
 It is possible to launch a viewer at anytime during the execution of a test by using the [`Open` command](/playgrounds/408/tech-io-documentation/content/open).
 
 # Use a Viewer
-First, create a playground. In this example, we're using the node.js template.
+First, create a playground. In this example, we're using the **node.js template**.
 Then, create a `www` folder at the root of your project (so `/nodejs-project/www`). Add into it a simple html file named `HelloWorld.html` whose content is:
 
 ```html

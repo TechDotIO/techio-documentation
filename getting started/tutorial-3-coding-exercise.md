@@ -1,5 +1,5 @@
 # Get an example
-To understand how coding exercises works, we recommend you to start with a template. For this tutorial, we'll use the Python template but feel free to choose the template which is the more appealing for you.
+To understand how coding exercises works, we recommend you to start with a template. For this tutorial, we'll use the **Python template** but feel free to choose the template which is the more appealing for you.
 
 Once you've selected your template, get it by cloning it using git.
 
@@ -22,7 +22,7 @@ Here is the detail:
 - `projects:`: this is where you define all the projects you need for your playground
 - `  python:`: this is the name of this project
 - `    root: /python-project`: this is where the project is stored
-- `    runner: python:3`: this is a docker image name to use to run your project (see Understanding the workflow below)
+- `    runner: python:3`: this is a docker image name to use to run your project 
 
 # Add the exercise to a markdown
 In the `welcome.md` markdown you can see a special tag that creates the exercise at the position you want:
