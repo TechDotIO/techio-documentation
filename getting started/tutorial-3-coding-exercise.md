@@ -22,7 +22,7 @@ Here is the detail:
 - `projects:`: this is where you define all the projects you need for your playground
 - `  python:`: this is the name of this project
 - `    root: /python-project`: this is where the project is stored
-- `    runner: python:3`: this is a docker image name to use to run your project 
+- `    runner: python:3`: this is a docker image name to use to run your project
 
 # Add the exercise to a markdown
 In the `welcome.md` markdown you can see a special tag that creates the exercise at the position you want:
@@ -33,7 +33,7 @@ In the `welcome.md` markdown you can see a special tag that creates the exercise
 
 Let's explain this command:
 
-- `@ [Luke, how many stars are there in these galaxies?]`: display a label at the top of your exercise.
+- `@[Luke, how many stars are there in these galaxies?]`: display a label at the top of your exercise.
 - `stubs: ["universe.py"]`: define what files to show to the user.
 - `command: "python3 test_universe.py"`: this is the command which is given to the docker image defined in `techio.yml` for this project when the user presses the run button.
 
