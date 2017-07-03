@@ -1,4 +1,4 @@
-Please find below a list of runners available on the platform:
+Here are the available runners on the Tech.io platform:
 
 | Name | Short description | Git Docker | Environment (Language, requirements, etc.) |
 |------|-------------------|------------|--------------------------------------------|

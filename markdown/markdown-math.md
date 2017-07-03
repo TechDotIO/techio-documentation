@@ -28,4 +28,4 @@ Generates:
 x_{1,2} = \frac{- b \pm \sqrt{\Delta}}{2a}
 ```
 
-The library behind is MathJax. A full documentation can be found here: http://docs.mathjax.org
+The library that makes this possible is `MathJax`. The full documentation can be found [here](http://docs.mathjax.org).

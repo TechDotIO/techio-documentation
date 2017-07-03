@@ -1,12 +1,12 @@
 # Magic links
-Magic links is an extension that automatically convert compatible links to an embedded widget.
-The following links are converted:
+Magic links are an extension that automatically convert compatible links to an embedded widget.
+The following services support *magic links*:
 
-- Video: the video links of the following services are converted to embedded video:
+- Video from the following services are converted automatically embedded:
   - https://www.youtube.com
   - https://vimeo.com
-- Slideshare links are converted to the slideshare widget: https://www.slideshare.net
-
+- Slideshare links are converted to the Slideshare widget
+  - https://www.slideshare.net
 
 # Examples:
 
