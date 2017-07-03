@@ -15,14 +15,12 @@ plan:
     plan:
       - title: techio.yml
         statement: reference/reference-techioyml.md
-      - title: Markdown tags
-        statement: reference/reference-markdown.md
       - title: Runner Reference
         statement: reference/reference-runner.md
-      - title: Runner Commands
-        statement: reference/reference-command.md
   - title: Markdown reference
     plan:
+      - title: Markdown tags
+        statement: reference/reference-markdown.md
       - title: Quiz
         statement: markdown/markdown-quiz.md
       - title: Coding exercise
@@ -33,6 +31,8 @@ plan:
         statement: markdown/markdown-magic-links.md
   - title: Command reference
     plan:
+      - title: Runner Commands
+        statement: reference/reference-command.md
       - title: annotate
         statement: commands/command-annotate.md
       - title: message

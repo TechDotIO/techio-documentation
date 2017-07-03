@@ -6,7 +6,7 @@ You only need:
 - Git installed on your computer.
 - Basic knowledge about Git (clone, push)
 
-The source code of this documentation is on GitHub ([Documentation GitHub repository](https://github.com/jeromecance/techio-documentation)), please feel free to come up with proposals to improve it.
+The source code of this documentation is on GitHub ([Documentation GitHub repository](https://github.com/TechDotIO/techio-documentation), please feel free to come up with proposals to improve it.
 
 # Create a playground
 Go to the [My playgrounds](/my-playgrounds) section, click on the "**Create new playground**" tile.
@@ -18,7 +18,7 @@ To modify this playground, you need to be authenticated on Tech.io’s Git Platf
 
 If you don’t already have an SSH key, execute `ssh-keygen` in your terminal. This command creates a public and a private key used to access your repository. (Check out [GitHub Help for more information](https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)).
 
-By default, the public key is located in `~/.ssh/id_rsa.pub`. Copy your public key to [your settings page](/settings/ssh). 
+By default, the public key is located in `~/.ssh/id_rsa.pub`. Copy your public key to [your settings page](/settings/ssh).
 
 Now that your key has been added, you can clone your repository using the origin URL provided on the playground page:
 

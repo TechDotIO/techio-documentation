@@ -8,5 +8,5 @@
 
 # Contribute
 - You can contribute to this documentation by creating pull request on the following GitHub repository:
-[Documentation GitHub repository](https://github.com/jeromecance/techio-documentation)
+[Documentation GitHub repository](https://github.com/TechDotIO/techio-documentation)
 - Talk to us on [Slack](https://betainvite.herokuapp.com/) to see how you can get involved!
