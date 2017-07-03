@@ -6,7 +6,6 @@ All commands have to be sent to the standard output stream and have to begin wit
 Commands respects the GNU long option syntax (arguments name prefixed with double hyphen --).
 
 Example:
-
 ```
 TECHIO> message --channel "out" hello world!
 ```
@@ -16,8 +15,8 @@ All other values sent to the standard output and standard error stream are inter
 # Available commands
 - [annotate](/playgrounds/408/tech-io-documentation/content/annotate): Annotate the client code editor with margin marker and an associated message.
 - [message](/playgrounds/408/tech-io-documentation/content/message): Prints a STRING message to a channel.
-- [open](/playgrounds/408/tech-io-documentation/content/open): Opens an http communication with the runner through a client iframe (viewer).
-- [redirect-streams](/playgrounds/408/tech-io-documentation/content/redirect-streams): Redirects the standard streams (standard output stream and standard error stream) to a OUT_CHANNEL.
-- [success](/playgrounds/408/tech-io-documentation/content/success): Define the success/fail status of a run.
+- [open](/playgrounds/408/tech-io-documentation/content/open): Opens an HTTP communication with the runner through a client <iframe> (viewer).
+- [redirect-streams](/playgrounds/408/tech-io-documentation/content/redirect-streams): Redirects the standard streams (output stream and error stream) to a OUT_CHANNEL.
+- [success](/playgrounds/408/tech-io-documentation/content/success): Defines the success/fail status of a run.
 
 

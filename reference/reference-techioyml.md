@@ -2,7 +2,7 @@
 
 The presence of the `techio.yml` file is mandatory at the root of the git repository of a playground.
 
-This file contains the plan of the playground, the references to the playground files and the technical details to correctly build a playground associated to the repository.
+This file contains the plan of the playground, the references to the playground files, and the technical details to correctly build a playground associated to the repository.
 
 # Main section
 The main section of `techio.yml` contains the title and a plan of your playground.
@@ -50,10 +50,10 @@ plan:
 
 
 # Chapter
-In our terminology, a chapter is an ordered list of Lessons. Thus, it is the hierarchical level above the concept of lessons. This hierarchical level is optional since playgrounds can only be made of lessons.
+In our terminology, a chapter is an ordered list of Lessons. Thus, it is the hierarchical level above the concept of lessons. This hierarchical level is optional since playgrounds can only consist of lessons.
 
-A chapter has a title, a description and contains a list of lesson (plan).
-The description is composed by few lines of text which describe the purpose of the chapter and which is displayed in the table of content.
+A chapter has a title, a description, and contains a list of lesson (plan).
+The description consists of a few lines of text which describe the purpose of the chapter and are displayed in the table of content.
 
 ```yml
 # The root element of a Chapter.
@@ -72,7 +72,7 @@ plan:
 
 
 # Projects
-The projects element contains a list of project. A project contains the technical elements necessary to build and run interactive code section of a lesson.
+The projects element contains a list of projects. A project contains the technical elements necessary to build and run interactive code section of a lesson.
 
 ```yml
 # The root element of the projects list.

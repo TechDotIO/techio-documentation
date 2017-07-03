@@ -9,10 +9,10 @@ A quiz is described using the following syntax in your markdown:
 -[ ] Peace & Love
 ```
 
-This snippet is interpreted by the platform as a Quiz.
+The snippet above is interpreted by the platform as a Quiz.
 - `?[What is the answer to Life, the Universe and Everything?]` is the first line of your quiz and allow you to ask a question to the user.
-- `-[ ] There is no answer to that!` is one of the possible answers but it's invalid (no x inside the [])
-- `-[x] Easy, this is 42` is a correct answer (x inside [])
+- `-[ ] There is no answer to that!` is one of the possible answers but it's invalid (no x inside the []).
+- `-[x] Easy, this is 42` is a correct answer (x inside []),
 
 This renders as:
 
