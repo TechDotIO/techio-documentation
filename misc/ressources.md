@@ -1,6 +1,6 @@
 # Fork us
 
-- [GitHub repository](https://github.com/CodinGame)
+- [GitHub repository](https://github.com/TechDotIO)
 - [Docker hub](https://hub.docker.com/u/techio/)
 
 # Get Help
