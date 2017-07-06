@@ -46,7 +46,7 @@ Examples:
 -[X] This is a valid choice
 ```
 
-
+toto
 # Force single or multiple choice answer style
 Sometime, we need to force a single choice.
 The choice answer style can be forced with the a parameter following the question label.
