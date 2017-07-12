@@ -9,13 +9,13 @@ Then, create a `www` folder at the root of your project (`/nodejs-project/www`).
 
 ```html
 <html>
-   <head>
-       <title>Hello World!</title>
-   </head>
-   <body>
-       <h1>Hello World!</h1>
-       <p>This page is served by the static viewer</p>
-   </body>
+    <head>
+        <title>Hello World!</title>
+    </head>
+    <body>
+        <h1>Hello World!</h1>
+        <p>This page is served by the static viewer</p>
+    </body>
 </html>
 ```
 
