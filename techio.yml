@@ -5,7 +5,7 @@ plan:
     plan:
       - title: Create a playground
         statement: getting started/tutorial-1-create.md
-      - title: Add a quizz
+      - title: Add a quiz
         statement: getting started/tutorial-2-quiz.md
       - title: Add a coding exercise
         statement: getting started/tutorial-3-coding-exercise.md
