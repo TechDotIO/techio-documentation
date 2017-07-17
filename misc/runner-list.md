@@ -1,4 +1,6 @@
-Here are the available runners on the Tech.io platform:
+All docker images work with Tech.io. So have a look at https://hub.docker.com to pick one.
+
+Here are the available runners that we've crafted to simplify your life on the platform:
 
 | Name | Short description | Git Docker | Environment (Language, requirements, etc.) |
 |------|-------------------|------------|--------------------------------------------|
