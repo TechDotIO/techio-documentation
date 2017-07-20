@@ -51,6 +51,8 @@ Commit your changes and push your code. Then, run the coding exercise. You shoul
 
 If you want to create a more complex server and not serve only a folder of static files, do not use the `-s` option. Check the full documentation of the [open command](/playgrounds/408/tech-io-documentation/content/open).
 
+Here is a dedicated playground to show how to use server and viewer: [Dynamic viewer with server](https://tech.io/playgrounds/1899/viewer-communicating-with-a-server).
+
 Here are some classical use cases for the use of a viewer:
 - Playgrounds around a HTTP stack (NodeJS, Play!Framework, Spring Boot, etc.)
 - Playgrounds around Front-End technologies (AngularJS, React, etc.)
