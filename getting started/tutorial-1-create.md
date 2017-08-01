@@ -9,9 +9,11 @@ You only need:
 The source code of this documentation is on GitHub ([Documentation GitHub repository](https://github.com/TechDotIO/techio-documentation), please feel free to come up with proposals to improve it.
 
 # Create a playground
-Go to the [My playgrounds](/my-playgrounds) section, click on the "**Create new playground**" tile.
+Go to the [Create a playground](/new-playground) page. Here, you can choose a template from a large selection of technologies. A skeleton playground based on the selected template is created in a new git repository.
 
-Then, select a template. A skeleton playgorund based on the template you choose is created in a new git repository.
+Templates contain a working code example and some hints to help getting started.
+
+You can also choose to create an empty playground. 
 
 # Get your playground
 To modify this playground, you need to be authenticated on Tech.io’s Git Platform. To do so, you need to add a SSH key to your profile.
