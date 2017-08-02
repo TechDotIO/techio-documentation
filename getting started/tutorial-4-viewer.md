@@ -38,7 +38,7 @@ TECHIO> open -s /project/target/www HelloWorld.html
 - `open`: Open a viewer on a HTTP flux
 - `-s`: Specify to use a simple server by defining a folder
 - `/project/target/www`: The folder you want to use as a root folder for the server. More details below.
-- `HelloWorld.html`: The file you want to load in the <iframe> of the viewer
+- `HelloWorld.html`: The file you want to load in the `<iframe>` of the viewer
 
 # Why /project/target/www?
 As discussed in the [adding a coding exercise](/playgrounds/408/tech-io-documentation/content/add-a-coding-exercise) section, when your project is built a Docker image is created and your project is copied into this image in the `/project/target` directory. So if you want to expose a folder inside this project (like the `www` folder), you need to prefix the path with `/project/target`.
