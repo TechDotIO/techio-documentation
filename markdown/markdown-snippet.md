@@ -17,24 +17,12 @@ You can auto fold some sections of your code by using this syntax:
 
 ````
 // { autofold
-  code to be hidden
+  code which is collapsed
 // }
+
+visible code
+
 ````
-
-Example:
-````
-```javascript runnable
-// { autofold
-  var a = 2;
-  var b = 4;
-}//
-
-  console.log(a+b);
-```
-````
-
-renders as
-
 
 # Runnable snippet
 ## Syntax
