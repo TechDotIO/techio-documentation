@@ -2,7 +2,7 @@
 # Usage
 
 ```bash
-TECHIO> terminal
+TECHIO> terminal [OPTIONS]
 ```
 
 # Description
