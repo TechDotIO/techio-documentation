@@ -31,6 +31,8 @@ plan:
         statement: markdown/markdown-math.md
       - title: Quiz
         statement: markdown/markdown-quiz.md
+      - title: Runnable snippets
+        statement: markdown/markdown-snippet.md
   - title: Command reference
     plan:
       - title: Runner Commands
@@ -45,6 +47,8 @@ plan:
         statement: commands/command-redirect-streams.md
       - title: success
         statement: commands/command-success.md
+      - title: terminal
+        statement: commands/command-terminal.md
 
   - title: One more thing
     plan:

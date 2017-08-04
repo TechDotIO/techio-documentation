@@ -31,3 +31,5 @@ Serves and forwards the client requests to a tomcat server (running within the R
 ```bash
 TECHIO> open --port 8080 /project/target/pages/lesson2.jsp
 ```
+
+Here is a dedicated playground to show how to use server and viewer: [Dynamic viewer with server](https://tech.io/playgrounds/1899/viewer-communicating-with-a-server).

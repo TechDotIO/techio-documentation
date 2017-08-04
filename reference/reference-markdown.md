@@ -6,6 +6,7 @@ The Markdown Cheat Sheet is accessible at: https://github.com/adam-p/markdown-he
 
 We've also extended the markdown syntax to introduce new features, specific to Tech.io:
 
+- [Code snippets](/markdown/markdown-snippet.md)
 - [Coding exercises](/markdown/markdown-run.md)
 - [Collapse/Uncollapse](/markdown/markdown-collapse.md)
 - [Magic links](/markdown/markdown-magic-links.md)

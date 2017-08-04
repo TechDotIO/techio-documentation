@@ -18,5 +18,6 @@ All other values sent to the standard output and standard error stream are inter
 - [open](/commands/command-open.md): Opens an HTTP communication with the runner through a client <iframe> (viewer).
 - [redirect-streams](/commands/command-redirect-streams.md): Redirects the standard streams (output stream and error stream) to a OUT_CHANNEL.
 - [success](/commands/command-success.md): Defines the success/fail status of a run.
+- [terminal](/commands/command-terminal.md): Opens a terminal to interact with the runner. 
 
 
