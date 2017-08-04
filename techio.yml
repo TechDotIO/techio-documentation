@@ -21,6 +21,8 @@ plan:
     plan:
       - title: Markdown extensions
         statement: reference/reference-markdown.md
+      - title: Code snippets
+        statement: markdown/markdown-snippet.md
       - title: Coding exercise
         statement: markdown/markdown-run.md
       - title: Collapse / Uncollapse section
@@ -31,8 +33,6 @@ plan:
         statement: markdown/markdown-math.md
       - title: Quiz
         statement: markdown/markdown-quiz.md
-      - title: Runnable snippets
-        statement: markdown/markdown-snippet.md
   - title: Command reference
     plan:
       - title: Runner Commands
