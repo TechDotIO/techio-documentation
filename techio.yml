@@ -19,16 +19,18 @@ plan:
         statement: reference/reference-runner.md
   - title: Markdown reference
     plan:
-      - title: Markdown tags
+      - title: Markdown extensions
         statement: reference/reference-markdown.md
-      - title: Quiz
-        statement: markdown/markdown-quiz.md
       - title: Coding exercise
         statement: markdown/markdown-run.md
-      - title: Math formula
-        statement: markdown/markdown-math.md
+      - title: Collapse / Uncollapse section
+        statement: markdown/markdown-collapse.md
       - title: Magic Links
         statement: markdown/markdown-magic-links.md
+      - title: Math formula
+        statement: markdown/markdown-math.md
+      - title: Quiz
+        statement: markdown/markdown-quiz.md
   - title: Command reference
     plan:
       - title: Runner Commands

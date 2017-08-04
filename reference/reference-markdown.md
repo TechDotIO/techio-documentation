@@ -6,8 +6,9 @@ The Markdown Cheat Sheet is accessible at: https://github.com/adam-p/markdown-he
 
 We've also extended the markdown syntax to introduce new features, specific to Tech.io:
 
-- [Quizes](/playgrounds/408/tech-io-documentation/content/quiz)
-- [Coding exercises](/playgrounds/408/tech-io-documentation/content/coding-exercise)
-- [Math formulas](/playgrounds/408/tech-io-documentation/content/math-formula)
-- [Magic links](/playgrounds/408/tech-io-documentation/content/magic-links)
+- [Coding exercises](/markdown/markdown-run.md)
+- [Collapse/Uncollapse](/markdown/markdown-collapse.md)
+- [Magic links](/markdown/markdown-magic-links.md)
+- [Math formulas](/markdown/markdown-math.md)
+- [Quizes](/markdown/markdown-quiz.md)
 

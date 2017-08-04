@@ -110,7 +110,7 @@ projects:
 # Runner
 The runner enters in action when a user click on the RUN button inside an interactive programming section in a lesson.
 
-All the technical specification about the creation and the use of a Runner can be found in the [Runner Reference Documentation](/playgrounds/408/tech-io-documentation/content/runner-reference).
+All the technical specification about the creation and the use of a Runner can be found in the [Runner Reference Documentation](/reference/reference-runner.md).
 
 
 

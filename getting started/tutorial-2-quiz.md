@@ -22,7 +22,7 @@ This renders as:
 -[x] Easy, this is 42
 -[ ] Peace & Love
 
-You can learn more about quizzes [here](/playgrounds/408/tech-io-documentation/content/quiz) and more about the answer to life [here](https://en.wikipedia.org/wiki/Phrases_from_The_Hitchhiker%27s_Guide_to_the_Galaxy#Answer_to_the_Ultimate_Question_of_Life.2C_the_Universe.2C_and_Everything_.2842.29).
+You can learn more about quizzes [here](/markdown/markdown-quiz) and more about the answer to life [here](https://en.wikipedia.org/wiki/Phrases_from_The_Hitchhiker%27s_Guide_to_the_Galaxy#Answer_to_the_Ultimate_Question_of_Life.2C_the_Universe.2C_and_Everything_.2842.29).
 
 # Test your playground
 Once you have made all your local modifications, push them and test your playground.

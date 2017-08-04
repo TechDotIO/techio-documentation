@@ -49,7 +49,7 @@ Let's explain this command:
 # Runner
 The runner is the execution engine for your code. It packages your project and then runs your code exercises.
 
-Technically speaking, it's a Docker image. You may use official images available on the [Docker Hub](https://hub.docker.com/u/techio/) or those made specifically for the Tech.io platform (which include extra tools and features). A complete documentation about the Runners can be find [here](/playgrounds/408/tech-io-documentation/content/runner-reference).
+Technically speaking, it's a Docker image. You may use official images available on the [Docker Hub](https://hub.docker.com/u/techio/) or those made specifically for the Tech.io platform (which include extra tools and features). A complete documentation about the Runners can be find [here](/reference/reference-runner.md).
 
 # Test the playground
 It's time to test the playground:
@@ -62,6 +62,6 @@ This will run the Docker image with the parameters that you set in the “comman
 
 # Next Step
 Here are interesting links to dive into the awesome world of Runners:
-- [Crafted Runners](/playgrounds/408/tech-io-documentation/content/runner-list)
-- [Runner Reference Documentation](/playgrounds/408/tech-io-documentation/content/runner-reference)
-- [Runner Commands Reference Documentation](/playgrounds/408/tech-io-documentation/content/runner-commands)
+- [Crafted Runners](/misc/runner-list.md)
+- [Runner Reference Documentation](/reference/reference-runner.md)
+- [Runner Commands Reference Documentation](/reference/reference-command.md)

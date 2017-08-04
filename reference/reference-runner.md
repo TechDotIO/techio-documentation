@@ -30,7 +30,7 @@ If the runner image contains a file with the path `/project/build`, the content 
 
 ## Build file definition in the project root directory (buildCommand)
 If you want to execute initialization commands in your runner, you can provide it directly from your git repository. The path of the build file can be set in the project configuration file (`techio.yml`).
-[See projects/buildCommand section of the techio.yml reference](/playgrounds/408/tech-io-documentation/content/techio-yml)
+[See projects/buildCommand section of the techio.yml reference](/reference/reference-techioyml.md)
 If the file is an interpretable script, all the tools required to execute it must be available in the runner.
 
 In case where the Runner image and project configuration both define a build file:
@@ -83,7 +83,7 @@ For instance, when using a standard ubuntu Runner image, the following Run secti
 ## Timeout
 The maximum lifetime duration of a runner image is 30 seconds. The runner instance is stopped if the execution exceeds this duration. The instance lifetime duration can be shorter if the execution is finished before.
 
-If a [viewer](/playgrounds/408/tech-io-documentation/content/open) is opened on a port, the maximum lifetime duration is extended to 120 seconds. This will allow the user to interact with the Docker container through this port for a longer amount of time. Any time that a request is made on the port, a new lifetime extension of 120 seconds is set on the runner.
+If a [viewer](/commands/command-open.md) is opened on a port, the maximum lifetime duration is extended to 120 seconds. This will allow the user to interact with the Docker container through this port for a longer amount of time. Any time that a request is made on the port, a new lifetime extension of 120 seconds is set on the runner.
 
 ## Max ressources
 The number of resources that a runner can use is limited:
@@ -99,7 +99,7 @@ The number of resources that a runner can use is limited:
 ## Standard output and commands
 A list of text output can be written to the standard output of the runner during its execution phase. The text is interpreted as commands and some action result can be displayed on the client (success/fail status, debug message, code annotation, etc).
 
-The full command list and the documentation can be found here: [Runner command reference Documentation](/408/tech-io-documentation/content/runner-commands).
+The full command list and the documentation can be found here: [Runner command reference Documentation](/reference/reference-command.md).
 
 ## Viewer
 One of the command available in the runner is `open`. This command is a bit special because it can open a new interactive communication channel between the web application and the runner container.

@@ -13,10 +13,10 @@ TECHIO> message --channel "out" hello world!
 All other values sent to the standard output and standard error stream are interpreted as message command.
 
 # Available commands
-- [annotate](/playgrounds/408/tech-io-documentation/content/annotate): Annotate the client code editor with margin marker and an associated message.
-- [message](/playgrounds/408/tech-io-documentation/content/message): Prints a STRING message to a channel.
-- [open](/playgrounds/408/tech-io-documentation/content/open): Opens an HTTP communication with the runner through a client <iframe> (viewer).
-- [redirect-streams](/playgrounds/408/tech-io-documentation/content/redirect-streams): Redirects the standard streams (output stream and error stream) to a OUT_CHANNEL.
-- [success](/playgrounds/408/tech-io-documentation/content/success): Defines the success/fail status of a run.
+- [annotate](/commands/command-annotate.md): Annotate the client code editor with margin marker and an associated message.
+- [message](/commands/command-message.md): Prints a STRING message to a channel.
+- [open](/commands/command-open.md): Opens an HTTP communication with the runner through a client <iframe> (viewer).
+- [redirect-streams](/commands/command-redirect-streams.md): Redirects the standard streams (output stream and error stream) to a OUT_CHANNEL.
+- [success](/commands/command-success.md): Defines the success/fail status of a run.
 
 
