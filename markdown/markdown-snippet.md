@@ -17,28 +17,23 @@ You can auto fold some sections of your code by using this syntax:
 
 ````
 // { autofold
-
   code to be hidden
 // }
 ````
 
 Example:
-
-```
+````
+```javascript runnable
 // { autofold
-package com.yourself;
+  var a = 2;
+  var b = 4;
+}//
 
-public class Main {
-// }
-
-public String hello() {
-	return "Hello";
-}
-
-//{ autofold
-}
-//}
+  console.log(a+b);
 ```
+````
+
+renders as
 
 
 # Runnable snippet
