@@ -19,6 +19,8 @@ plan:
         statement: reference/reference-runner.md
   - title: Markdown reference
     plan:
+      - title: Markdown Cheatsheet
+        statement: markdown/markdown-cheetsheet.md
       - title: Markdown extensions
         statement: reference/reference-markdown.md
       - title: Code snippets
