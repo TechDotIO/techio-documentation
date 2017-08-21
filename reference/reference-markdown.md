@@ -2,7 +2,7 @@
 
 The playground lesson content is made of Markdown files. We use the Github Flavored Markdown syntax (based on the Standard Markdown Syntax) and we have added a list of Tech.io specific extensions.
 
-The Markdown Cheat Sheet is accessible at: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+The Markdown Cheat Sheet is accessible [here](/markdown/markdown-cheetsheet.md).
 
 We've also extended the markdown syntax to introduce new features, specific to Tech.io:
 

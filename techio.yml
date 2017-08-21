@@ -19,10 +19,10 @@ plan:
         statement: reference/reference-runner.md
   - title: Markdown reference
     plan:
+      - title: What is a markdown file?
+        statement: reference/reference-markdown.md
       - title: Markdown Cheatsheet
         statement: markdown/markdown-cheetsheet.md
-      - title: Markdown extensions
-        statement: reference/reference-markdown.md
       - title: Code snippets
         statement: markdown/markdown-snippet.md
       - title: Coding exercise
