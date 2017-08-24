@@ -60,6 +60,7 @@ Here you can find a table that summarizes the supported languages and the associ
 | C#         | mono:5                | bash -c "mcs main.cs && mono main.exe"              | main.cs      |
 | C++        | gcc:latest            | bash -c "g++ main.cc -o exe && ./exe"               | main.cc      |
 | dart       | google/dart:latest    | dart main.dart                                      | main.dart    |
+| elixir     | elixir:latest         | elixir main.exs                                     | main.exs     |
 | F#         | mono5:latest          | bash -c "fsharpc --nologo main.fs && mono main.exe" | main.fs      |
 | go         | golang:latest         | go run main.go                                      | main.go      |
 | groovy     | groovy:latest         | groovy main.groovy                                  | main.groovy  |
