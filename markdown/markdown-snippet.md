@@ -66,7 +66,7 @@ Here you can find a table that summarizes the supported languages and the associ
 | groovy     | groovy:latest         | groovy main.groovy                                  | main.groovy  |
 | haskell    | haskell:latest        | bash -c "ghc main.hs -o exe && ./exe"               | main.hs      |
 | html       | ubuntu:latest         | echo "TECHIO> open -s /project/target index.html"   | index.html   |
-| kotlin     | techio/kotlin-snippet-runner:lastest|kotlin-compiler-runner.sh main.kt      | main.kt      |
+| kotlin     | techio/kotlin-snippet-runner:latest|kotlin-compiler-runner.sh main.kt       | main.kt      |
 | perl       | perl:latest           | perl main.pl                                        | main.pl      |
 | php        | php:latest            | php main.php                                        | main.php     |
 | ruby       | ruby:latest           | ruby main.rb                                        | main.rb      |
