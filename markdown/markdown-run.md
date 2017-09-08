@@ -45,17 +45,7 @@ The JSON parameter is a map with the following keys/values:
     default value: The first project defined in techio.yml
     [OPTIONAL]
   */
-  "project": "myproject",
-  /*
-    Layout used to display the interactive IDE in the playground  
-    “inline”: Display the content in a 1 column layout.
-    “aside”: merge the stubs files of all the aside layout into a large IDE,
-    displayed in a column dedicated to the IDE.
-    type: String
-    default value: inline
-    [OPTIONAL]
-  */
-  "layout": "aside"
+  "project": "myproject"
 }
 ```
 
