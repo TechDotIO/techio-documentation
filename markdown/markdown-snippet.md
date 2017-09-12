@@ -69,6 +69,7 @@ Here you can find a table that summarizes the supported languages and the associ
 | kotlin     | techio/kotlin-snippet-runner:latest|kotlin-compiler-runner.sh main.kt       | main.kt      |
 | perl       | perl:latest           | perl main.pl                                        | main.pl      |
 | php        | php:latest            | php main.php                                        | main.php     |
+| R          | r-base:latest         | Rscript main.R                                      | main.R       |
 | ruby       | ruby:latest           | ruby main.rb                                        | main.rb      |
 | rust       | rust:latest           | bash -c "rustc main.rs && ./main"                   | main.rs      |
 | scala      | techio/scala-sbt:2.12 | bash -c "scalac Main.scala && scala Main"           | Main.scala   |
