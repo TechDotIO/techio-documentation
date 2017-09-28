@@ -33,7 +33,7 @@ Now that you have cloned the project, let's take a look at the folder structure:
 - `techio.yml`: This mandatory file must be present at the root of a playground’s git repository and contains: table of content of the playground, the references to the lesson files, and some other technical details for advanced usage (discuessed later in the documentation).
 - `cover.png`: This small image is displayed when your playground is displayed on the platform. Feel free to change it.
 - `markdowns` folder: This folder contains lesson statements.
-- `project` folder: We'll describe this later in the [Add a coding exercise](/getting started/tutorial-3-coding-exercise.md) section of the documentation.
+- `project` folder: We'll describe this later in the [Add a coding exercise](/tutorial-3-coding-exercise.md) section of the documentation.
 
 ## techio.yml
 The `techio.yml` contains the following details:
