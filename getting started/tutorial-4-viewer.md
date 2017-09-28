@@ -1,5 +1,5 @@
 # Concept of Viewer
-A viewer is a HTTP service that renders content from the runner to an `<iframe>` inside the playground page. You can create your own HTTP server from your code or use a simplified server given by Tech.io.
+A viewer is an HTTP service that renders content from the runner to an `<iframe>` inside the playground page. You can create your own HTTP server from your code or use a simplified server given by Tech.io.
 
 It is possible to launch a viewer at anytime during the execution of a test by using the [`Open` command](/commands/command-open.md).
 
