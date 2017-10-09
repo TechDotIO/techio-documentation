@@ -12,6 +12,8 @@ The following code snippet:
 
 will generate an interactive code section
 
+@[Hello World Example]({"stubs": ["HelloWorld.java"], "command": "javac HelloWorld.java && java HelloWorld"})
+
 # Run syntax
 The *Run* command is composed of 2 elements
 - A label surrounded by square brackets `[ ]` and prefixed by the `@` token.
