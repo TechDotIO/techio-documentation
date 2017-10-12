@@ -66,7 +66,7 @@ Now that you have created the repository, let's take a look at the folder struct
 - `cover.png`: This small image (140x76) along your playground in the [explore page](https://tech.io/explore). By default, it's the logo of the technology you chose.
 - `markdowns` folder or `statement.md` file: Each markdown file corresponds to a page. A one-page playground will just contain the `statement.md` file at the root. Else, all files will be contained in the `markdowns` folder.
 *Markdown is a simple syntax for basic formatting (links, images, quote text, code formatted text snippets, etc). You can find a cheatsheet for markdown [here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).*
-- `project` folder or nothing: This folder contains the files used in your coding exercies. We'll describe it later in the [Add a coding exercise](/tutorial-3-coding-exercise.md) section of the documentation. In a simple template, this folder is absent, because samples of codes are added directly in the markdown using [Code Snippets](/markdown-snippet.md).
+- `project` folder or nothing: This folder contains the files used in your coding exercies. We'll describe it later in the [Add a coding exercise](/getting%20started/tutorial-3-coding-exercise.md) section of the documentation. In a simple template, this folder is absent, because samples of codes are added directly in the markdown using [Code Snippets](/markdown/markdown-snippet.md).
 
 # Updating Your Playground
 
