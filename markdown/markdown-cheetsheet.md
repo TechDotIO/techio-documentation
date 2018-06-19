@@ -568,13 +568,13 @@ Named anchors enable you to jump to the specified anchor point on the same page.
 will jump to these sections:
 
 ```markdown
-## Chapter 1 <a id="chapter-1"></a>
+## Chapter 1 <a name="chapter-1"></a>
 Content for chapter one.
 
-## Chapter 2 <a id="chapter-2"></a>
+## Chapter 2 <a name="chapter-2"></a>
 Content for chapter one.
 
-## Chapter 3 <a id="chapter-3"></a>
+## Chapter 3 <a name="chapter-3"></a>
 Content for chapter one.
 ```
 **NOTE** that specific placement of the anchor tag seems to be arbitrary. They are placed inline here since it seems to be unobtrusive, and it works.
