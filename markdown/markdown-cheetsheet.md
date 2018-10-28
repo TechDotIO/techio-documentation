@@ -122,7 +122,7 @@ and this HTML:
 
 
 ### strikethrough
-In GFM you can do strickthroughs. 
+In GFM you can do strikethroughs. 
 
 ``` markdown
 ~~Strike through this text.~~
