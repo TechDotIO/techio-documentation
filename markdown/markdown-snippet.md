@@ -52,6 +52,7 @@ Here you can find a table that summarizes the supported languages and the associ
 
 | Language   | Docker image          | command                                             | filename     |
 | ---------- | --------------------- | --------------------------------------------------- | ------------ |
+| ada        | walleza1/ada-gnatmake:latest | gnatmake main.adb && ./main                         | main.adb    |
 | java       | java:latest           | bash -c "javac Main.java" && java Main"             | Main.java    |
 | javascript | node:latest           | node index.js                                       | index.js     |
 | python     | python:latest         | python main.py                                      | main.py      |
