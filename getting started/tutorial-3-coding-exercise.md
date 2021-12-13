@@ -39,10 +39,10 @@ Let's explain this command:
 
 # Understanding the workflow
 - When a coding exercise is displayed to a user, it shows a label and the stubs declared in the stubs property.
-- When the user changes the snippet and clicks the "run" button, the docker image specified in `techio.yml` for the project is instancied and launched
+- When the user changes the snippet and clicks the "run" button, the docker image specified in `techio.yml` for the project is instanced and launched
 - The root folder of the project is mounted in the image (located in the `/project/target` folder).
 - The snippets that have been modified by the user are copied into the root folder and the initial ones are erased.
-- The specified command is ran on the Docker instance.
+- The specified command is run on the Docker instance.
 - Techio commands (e.g. `TECHIO> success`) can be called during this process to interact with the user.
 
 
